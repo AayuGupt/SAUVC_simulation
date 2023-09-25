@@ -1,5 +1,5 @@
 # SAUVC_simulation
-Git clone into src of your catkin_ws
+Git clone into src of your catkin_ws then catkin_make
 
 To simulate the vec6 vehicle in the SAUVC swimming pool
 roslaunch uwv_control sauvc_pool.launch
